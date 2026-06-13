@@ -4,7 +4,7 @@ A clean, interactive calculator built with vanilla HTML, CSS, and JavaScript usi
 
 ## 🔗 Live Demo
 
-> Deploy on GitHub Pages and paste your URL here.
+> [https://niyasharma25.github.io/Calculator/]
 
 ---
 
